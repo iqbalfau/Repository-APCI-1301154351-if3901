@@ -1,6 +1,12 @@
-program Hello;
+program APCI;
 uses crt;
 begin
 clrscr;
-writeln('hello world')//untuk mengeluarkan string 'hello world' di layar
+writeln('hello');//untuk mengeluarkan string 'hello' di layar
+writeln('1301154351');//ubah untuk menampilkan NIm anda
+Writeln('Iqbal Fauzi');// ubah untuk menampilkan nama
+writeln('if3901');// ubah untuk menampilkan keas
+writeln('renett');// untuk menampilkan asprak
+writeln('1301154353')//untuk menampilkan nim teman 
+writeln('modul 6')// untuk menampilkan string modul 6
 end
